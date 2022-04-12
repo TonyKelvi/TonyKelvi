@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning Java e Angular.
 - 🤔 I’m looking for help with estágio.
 - 📫 How to reach me: tonyalmeidacwb@gmail.com
-- ⚡ Fun fact: Cursando Analise e Desenvolvimento de sistemas na Positivo.
+- ⚡ Fun fact: Cursando Análise e Desenvolvimento de Sistemas na Positivo.
